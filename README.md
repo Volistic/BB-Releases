@@ -19,8 +19,9 @@ You only download the launcher once:
 
 - **Every version:** on the start screen, **Version** lists all the releases here. Pick one and
   the launcher downloads it (it's tiny) and plays it.
-- **Updates:** when a newer launcher is out, the start screen says so. Press **U**, or pick
-  "Update the launcher" on the Version page. It downloads, restarts, and keeps everything.
+- **Updates are automatic:** when a new release comes out, the launcher installs it by
+  itself at the start screen and restarts, keeping everything. It checks when it starts and
+  every 15 minutes. If you're in a game, it waits until you're back at the start screen.
 - **Joining friends:** if a friend's game is on another version, your game switches to it for
   that game, downloading it from here if needed.
 
